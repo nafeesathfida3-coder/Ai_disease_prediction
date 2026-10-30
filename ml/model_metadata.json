@@ -1,0 +1,8 @@
+{
+  "model": "LogisticRegression",
+  "training_rows": 304,
+  "disease_count": 41,
+  "symptom_count": 131,
+  "confidence_threshold": 70,
+  "min_recognized_symptoms": 2
+}
